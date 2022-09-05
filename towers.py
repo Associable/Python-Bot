@@ -102,4 +102,4 @@ async def towers(ctx, round_id):
         await ctx.send(embed=em)
 
 
-bot.run('MTAxNjEzMTk3OTY1NTI3MDQ2MA.GOnTPK.YGEiNJUGUH4uRyoSAdBmtPfjLIwO5eF-MJScrM')
+bot.run('MTAxNjEzMTk3OTY1NTI3MDQ2MA.G4wtZ3.CknOhTBl5-CA46idyFziC_czAP5iXfUGfE8vWE')
